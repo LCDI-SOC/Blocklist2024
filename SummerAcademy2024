@@ -1,5 +1,3 @@
-# Blocklist for summer academy 2024
-
 0.0.0.0 Kongregate.com
 0.0.0.0 Cartoon Network
 0.0.0.0 Agame.com
@@ -87,84 +85,82 @@
 0.0.0.0 defly.io/
 0.0.0.0 www.silvergames.com/
 0.0.0.0 iogames.onl/
- 0.0.0.0 webgames.io/
- 0.0.0.0 en.softonic.com/
- 0.0.0.0 krew.io/
- 0.0.0.0 ducklings.io/
- 0.0.0.0 www.allgames.io/
- 0.0.0.0 shellshock.io/
- 0.0.0.0 iogames.fun/
- 0.0.0.0 www.voodoo.io/
- 0.0.0.0 www.spatial.io/
- 0.0.0.0 kizi.com/
- 0.0.0.0 sites.google.com/
- 0.0.0.0 www.symbaloo.com/
- 0.0.0.0 nointernetgame.com/
- 0.0.0.0 minesweeper.online/
- 0.0.0.0 www.battleshiponline.org/
- 0.0.0.0 en.battleship-game.org/
- 0.0.0.0 www.ducksters.com/
- 0.0.0.0 buddyboardgames.com/
- 0.0.0.0 www.calculators.org/
- 0.0.0.0 www.mathsisfun.com/
- 0.0.0.0 pokemonchess.com/
- 0.0.0.0 pokemonshowdown.com/
- 0.0.0.0 www.mtchs.org/
- 0.0.0.0 porygon.math.miami.edu
- 0.0.0.0 www.minifun.online
- 0.0.0.0 sudoku.com/
- 0.0.0.0 www.websudoku.com/
- 0.0.0.0 www.nytimes.com/
- 0.0.0.0 www.247sudoku.com/
- 0.0.0.0 wordleunlimited.org/
- 0.0.0.0 wordplay.com/
- 0.0.0.0 www.merriam-webster.com/
- 0.0.0.0 quordlegame.com/
- 0.0.0.0 openai.com/
- 0.0.0.0 quordlewordle.io/
- 0.0.0.0 quordle.today/#/
- 0.0.0.0 nerdlegame.com/
- 0.0.0.0 wafflegame.net/daily
- 0.0.0.0 solitaired.com/
- 0.0.0.0 wordhurdle.co/
- 0.0.0.0 wordhurdle.co/
- 0.0.0.0 worldofsolitaire.com/
- 0.0.0.0 www.solitr.com/
- 0.0.0.0 www.247solitaire.com/
- 0.0.0.0 cardgames.io/solitaire/
- 0.0.0.0 www.mobilityware.com/
- 0.0.0.0 play.google.com/
- 0.0.0.0 apps.apple.com/
- 0.0.0.0 www.play-solitaire.com/
- 0.0.0.0 online-solitaire.com/
- 0.0.0.0 solitaired.com/
- 0.0.0.0 www.aarp.org/
- 0.0.0.0 www.solitaire.org/
- 0.0.0.0 www.solitaire-palace.com/
- 0.0.0.0 solitairesocial.com/
- 0.0.0.0 suikagame.com/
- 0.0.0.0 crosswordle.com/
- 0.0.0.0 crosswordle.org/
- 0.0.0.0 crosswordle.vercel.app/?daily=1
- 0.0.0.0 octordlegame.io/
- 0.0.0.0 wordwormdormdork.com/
- 0.0.0.0 weavergame.net/
- 0.0.0.0 weaverwordle.com/
- 0.0.0.0 squaredle.app/
- 0.0.0.0 www.improvememory.org/
- 0.0.0.0 www.balkangamingexpo.com/
- 0.0.0.0 www.synteraction.org/
- 0.0.0.0 dribbble.com/search/%5Btcp4.com%5Dcasino-games-online-unblocked-SEO366
- 0.0.0.0 drgbthornton.com/
- 0.0.0.0 www.myyadtv.com/
- 0.0.0.0 the-impossiblequiz.github.io/
- 0.0.0.0 www.experimonkey.com/
- 0.0.0.0 www.instagram.com/
- 0.0.0.0 www.snapchat.com/
- 0.0.0.0 discord.com/
- 0.0.0.0 www.facebook.com
- 0.0.0.0 x.com/
- 0.0.0.0 www.reddit.com/
- 0.0.0.0 www.tumblr.com/
- 0.0.0.0 www.4chan.org/
- 
+0.0.0.0 webgames.io/
+0.0.0.0 en.softonic.com/
+0.0.0.0 krew.io/
+0.0.0.0 ducklings.io/
+0.0.0.0 www.allgames.io/
+0.0.0.0 shellshock.io/
+0.0.0.0 iogames.fun/
+0.0.0.0 www.voodoo.io/
+0.0.0.0 www.spatial.io/
+0.0.0.0 kizi.com/
+0.0.0.0 sites.google.com/
+0.0.0.0 www.symbaloo.com/
+0.0.0.0 nointernetgame.com/
+0.0.0.0 minesweeper.online/
+0.0.0.0 www.battleshiponline.org/
+0.0.0.0 en.battleship-game.org/
+0.0.0.0 www.ducksters.com/
+0.0.0.0 buddyboardgames.com/
+0.0.0.0 www.calculators.org/
+0.0.0.0 www.mathsisfun.com/
+0.0.0.0 pokemonchess.com/
+0.0.0.0 pokemonshowdown.com/
+0.0.0.0 www.mtchs.org/
+0.0.0.0 porygon.math.miami.edu
+0.0.0.0 www.minifun.online
+0.0.0.0 sudoku.com/
+0.0.0.0 www.websudoku.com/ 0.0.0.0 www.nytimes.com/
+0.0.0.0 www.247sudoku.co/
+0.0.0.0 wordleunlimited.org/
+0.0.0.0 wordplay.com/
+0.0.0.0 www.merriam-webster.com/
+0.0.0.0 quordlegame.com/
+0.0.0.0 openai.com/
+0.0.0.0 quordlewordle.io/
+0.0.0.0 quordle.today/#/
+0.0.0.0 nerdlegame.com/
+0.0.0.0 wafflegame.net/daily
+0.0.0.0 solitaired.com/
+0.0.0.0 wordhurdle.co/
+0.0.0.0 wordhurdle.co/
+0.0.0.0 worldofsolitaire.com/
+0.0.0.0 www.solitr.com/
+0.0.0.0 www.247solitaire.com/
+0.0.0.0 cardgames.io/solitaire/
+0.0.0.0 www.mobilityware.com/
+0.0.0.0 play.google.com/
+0.0.0.0 apps.apple.com/
+0.0.0.0 www.play-solitaire.com/
+0.0.0.0 online-solitaire.com/
+0.0.0.0 solitaired.com/
+0.0.0.0 www.aarp.org/
+0.0.0.0 www.solitaire.org/
+0.0.0.0 www.solitaire-palace.com/
+0.0.0.0 solitairesocial.com/
+0.0.0.0 suikagame.com/
+0.0.0.0 crosswordle.com/
+0.0.0.0 crosswordle.org/
+0.0.0.0 crosswordle.vercel.app/?daily=1
+0.0.0.0 octordlegame.io/
+0.0.0.0 wordwormdormdork.com/
+0.0.0.0 weavergame.net/
+0.0.0.0 weaverwordle.com/
+0.0.0.0 squaredle.app/
+0.0.0.0 www.improvememory.org/
+0.0.0.0 www.balkangamingexpo.com/
+0.0.0.0 www.synteraction.org/
+0.0.0.0 dribbble.com/search/%5Btcp4.com%5Dcasino-games-online-unblocked-SEO366
+0.0.0.0 drgbthornton.com/
+0.0.0.0 www.myyadtv.com/
+0.0.0.0 the-impossiblequiz.github.io/
+0.0.0.0 www.experimonkey.com/
+0.0.0.0 www.instagram.com/
+0.0.0.0 www.snapchat.com/
+0.0.0.0 discord.com/
+0.0.0.0 www.facebook.com
+0.0.0.0 x.com/
+0.0.0.0 www.reddit.com/
+0.0.0.0 www.tumblr.com/
+0.0.0.0 www.4chan.org/
